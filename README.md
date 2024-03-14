@@ -1,1 +1,1 @@
-Diff for _Pride and Prejudice_ (and Zombies). Created for research and teaching purposes. 
+Diff for _Pride and Prejudice_ (and _Zombies_). Created for research and teaching purposes. 
